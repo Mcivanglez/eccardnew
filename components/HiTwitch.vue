@@ -81,36 +81,43 @@
         />
       </div>
     </div>
-    <div class="grid mt-5 flex flex-wrap align-content-center justify-content-center">
+    <div class="grid mt-5 flex flex-wrap">
       <div class="col-12">
         <h1 class="text-center green-t p-7">
           TODO LO NECESARIO PARA TU NEGOCIO
         </h1>
       </div>
-      <div class="col-4 flex flex-wrap align-content-center justify-content-center">
-        <img src="/images/tarjetas.png" class="img" width="150" height="150" alt="Image Text">
-        <h3 class="green-t pt-3">
-          Tarjetas de
-          presentación
-          100% digitales
-        </h3>
-      </div>
-      <div class="col-4">
-        <div class="col-12 flex flex-wrap align-content-center justify-content-center">
-          <img src="/images/codigo.png" class="img" width="150" height="150" alt="Image Text">
+      <div class="grid">
+        <div class="col-4 w-full">
+          <div class="flex flex-wrap align-content-center justify-content-center flex-column">
+            <img src="/images/tarjetas.png" class="img" width="150" height="150" alt="Image Text">
+            <h3 class="green-t pt-3">
+              Tarjetas de
+              presentación
+              100% digitales
+            </h3>
+          </div>
         </div>
-        <div class="col-12 flex flex-wrap align-content-center justify-content-center">
-          <h3 class="green-t pt-3">
-            Comparte
-            fácilmente
-          </h3>
+        <div class="col-4 w-full">
+          <div class="flex flex-wrap align-content-center justify-content-center flex-column">
+            <img src="/images/tarjetas.png" class="img" width="150" height="150" alt="Image Text">
+            <h3 class="green-t pt-3">
+              Tarjetas de
+              presentación
+              100% digitales
+            </h3>
+          </div>
         </div>
-      </div>
-      <div class="col-4 flex flex-wrap align-content-center justify-content-center">
-        <img src="/images/video.png" class="img" width="150" height="150" alt="Image Text">
-        <h3 class="green-t pt-3">
-          Carga tus videos
-        </h3>
+        <div class="col-4 w-full">
+          <div class="flex flex-wrap align-content-center justify-content-center flex-column">
+            <img src="/images/tarjetas.png" class="img" width="150" height="150" alt="Image Text">
+            <h3 class="green-t pt-3">
+              Tarjetas de
+              presentación
+              100% digitales
+            </h3>
+          </div>
+        </div>
       </div>
     </div>
   </div>
