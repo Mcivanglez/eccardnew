@@ -87,36 +87,30 @@
           TODO LO NECESARIO PARA TU NEGOCIO
         </h1>
       </div>
-      <div class="grid">
-        <div class="col-4 w-full">
-          <div class="flex flex-wrap align-content-center justify-content-center flex-column">
-            <img src="/images/tarjetas.png" class="img" width="150" height="150" alt="Image Text">
-            <h3 class="green-t pt-3">
-              Tarjetas de
-              presentación
-              100% digitales
-            </h3>
-          </div>
+      <div class="grid w-full">
+        <div class="col-4 flex flex-column justify-content-center align-items-center">
+          <img src="/images/tarjetas.png" class="img" width="150" height="150" alt="Image Text">
+          <h3 class="green-t pt-3">
+            Tarjetas de
+            presentación
+            100% digitales
+          </h3>
         </div>
-        <div class="col-4 w-full">
-          <div class="flex flex-wrap align-content-center justify-content-center flex-column">
-            <img src="/images/tarjetas.png" class="img" width="150" height="150" alt="Image Text">
-            <h3 class="green-t pt-3">
-              Tarjetas de
-              presentación
-              100% digitales
-            </h3>
-          </div>
+        <div class="col-4 flex flex-column justify-content-center align-items-center">
+          <img src="/images/tarjetas.png" class="img" width="150" height="150" alt="Image Text">
+          <h3 class="green-t pt-3">
+            Tarjetas de
+            presentación
+            100% digitales
+          </h3>
         </div>
-        <div class="col-4 w-full">
-          <div class="flex flex-wrap align-content-center justify-content-center flex-column">
-            <img src="/images/tarjetas.png" class="img" width="150" height="150" alt="Image Text">
-            <h3 class="green-t pt-3">
-              Tarjetas de
-              presentación
-              100% digitales
-            </h3>
-          </div>
+        <div class="col-4 flex flex-column justify-content-center align-items-center">
+          <img src="/images/tarjetas.png" class="img" width="150" height="150" alt="Image Text">
+          <h3 class="green-t pt-3">
+            Tarjetas de
+            presentación
+            100% digitales
+          </h3>
         </div>
       </div>
     </div>
